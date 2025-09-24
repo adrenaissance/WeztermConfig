@@ -7,8 +7,7 @@ Here you can find how you can setup your wezterm configuration on unix like envi
 **Using a script**
 ```bash
 mkdir -p ~/.config
-git clone "github.com/adrenaissance/WeztermConfig.git" ~/.config
-mv ~/.config/WeztermConfig ~/.config/wezterm
+git clone "https://github.com/adrenaissance/WeztermConfig.git" ~/.config/wezterm
 ```
 
 **manual setup**
